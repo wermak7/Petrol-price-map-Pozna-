@@ -1,0 +1,293 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.dark-mode .leaflet-control-layers {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+    border: 1px solid #444;
+}
+
+body.dark-mode .leaflet-control-layers label span {
+    color: #ffffff !important;
+}
+
+body.dark-mode .leaflet-control-layers input[type="radio"] {
+    accent-color: #ffffff; 
+}
+
+body.dark-mode .leaflet-control-layers-base,
+body.dark-mode .leaflet-control-layers-overlays {
+    background-color: #1e1e1e !important;
+}
+
+body.dark-mode .leaflet-popup-content-wrapper {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+    border: 1px solid #444 !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.6) !important;
+}
+
+body.dark-mode .leaflet-popup-content {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .leaflet-popup-content .fuel-table th {
+    background-color: #333 !important;
+    color: #fff !important;
+    border: 1px solid #555 !important;
+}
+
+body.dark-mode .leaflet-popup-content .fuel-table td {
+    background-color: #2a2a2a !important;
+    color: #fff !important;
+    border: 1px solid #444 !important;
+    padding: 4px !important;
+}
+
+body.dark-mode .leaflet-popup-content div {
+    color: #ffffff !important;
+}
+
+body.dark-mode .bg-light,
+body.dark-mode .form-control,
+body.dark-mode .card,
+body.dark-mode .dropdown-menu,
+body.dark-mode .tab,
+body.dark-mode .tab--selected,
+body.dark-mode .custom-tab,
+body.dark-mode .table,
+body.dark-mode .modal-content {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+    border-color: #444 !important;
+}
+
+body.dark-mode .nav,
+body.dark-mode nav {
+    border-color: #444 !important;
+}
+
+body.dark-mode .table th,
+body.dark-mode .table td,
+body.dark-mode .fuel-table td,
+body.dark-mode .fuel-table th {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+    border: 1px solid #444;
+}
+
+body.dark-mode .fuel-table th {
+    background-color: #2a2a2a !important;
+}
+
+body.dark-mode .form-label {
+    color: #ffffff;
+}
+
+body.dark-mode .form-control::placeholder {
+    color: #bbbbbb;
+}
+
+body.dark-mode .form-check-input:checked {
+    border-color: white;
+}
+
+body.dark-mode .dropdown-item {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+body.dark-mode .dropdown-item:hover {
+    background-color: #333333;
+}
+
+body.dark-mode .Select-value-label {
+    color: #ffffff;
+}
+
+body.dark-mode .form-check-input {
+    background-color: #444;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode label,
+body.dark-mode p {
+    color: #ffffff !important;
+}
+
+body.dark-mode .btn-primary {
+    background-color: #3a3a3a;
+    border-color: #555;
+    color: #ffffff;
+}
+
+body.dark-mode .btn-primary:hover {
+    background-color: #555;
+    border-color: #666;
+}
+
+body.dark-mode .tab {
+    color: #ffffff !important;
+}
+
+body.dark-mode .p-3 {
+    background-color: #1f1f1f !important;
+    color: #fff !important;
+    box-shadow: 0 2px 6px rgba(255, 255, 255, 0.05);
+}
+
+body.dark-mode .leaflet-control-measure-interaction h3,
+body.dark-mode .leaflet-control-measure-interaction p,
+body.dark-mode .leaflet-control-measure-interaction a,
+body.dark-mode .leaflet-control-measure-interaction li {
+    color: #111 !important;
+}
+
+body.dark-mode .leaflet-control-measure-interaction a {
+    text-decoration: underline !important;
+}
+
+body.dark-mode .startprompt {
+    color: #1f1f1f !important;
+}
+
+body.dark-mode .startprompt h3 {
+    color: #1f1f1f !important;
+}
+
+body.dark-mode .startprompt a {
+    color: #4dabf7 !important;
+    text-decoration: underline !important;
+}
+
+body.dark-mode .startprompt a:hover {
+    color: #74c0fc !important;
+}
+
+body.dark-mode .form-control,
+body.dark-mode .form-control:focus,
+body.dark-mode input[type="number"] {
+    background-color: #2a2a2a !important;
+    color: #ffffff !important;
+    border-color: #444 !important;
+}
+
+body.dark-mode .form-control::placeholder {
+    color: #aaaaaa !important;
+}
+
+body.dark-mode .form-label {
+    color: #ffffff !important;
+}
+
+body.dark-mode .Select-control {
+    background-color: #2a2a2a !important;
+    border-color: #444 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .Select-placeholder {
+    color: #aaaaaa !important;
+}
+
+body.dark-mode .Select-menu-outer {
+    background-color: #2a2a2a !important;
+    color: #ffffff !important;
+    border-color: #444 !important;
+}
+
+body.dark-mode .Select-option {
+    background-color: #2a2a2a !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .Select-option:hover {
+    background-color: #3a3a3a !important;
+}
+
+body.dark-mode .btn-primary {
+    background-color: #3a3a3a !important;
+    color: #fff !important;
+    border-color: #555 !important;
+}
+
+body.dark-mode .btn-primary:hover {
+    background-color: #555 !important;
+    border-color: #666 !important;
+}
+
+body.dark-mode .Select-value,
+body.dark-mode .Select-value-label {
+    color: #ffffff !important;
+}
+
+body.dark-mode .Select-clear {
+    color: #ffffff !important;
+}
+
+body.dark-mode .Select-arrow {
+    border-top-color: #ffffff !important;
+}
+
+body.dark-mode .Select-control {
+    background-color: #2a2a2a !important;
+    border-color: #444 !important;
+}
+
+#app-container {
+    min-height: 100vh;
+}
+
+#tabs-content {
+    min-height: 60vh;
+}
+
+nav {
+    border-bottom: 1px solid #d1d1d1;
+}
+
+.tab, .tab--selected {
+    color: black !important;
+}
+
+#app-container{
+    min-height: 100vh;
+}
+
+#tabs-content{
+    min-height: 60vh;
+
+}
+nav {
+    border-bottom: 1px solid #d1d1d1
+}
+
+.bg-dark {
+    background-color: #121212 !important;
+}
+
+.fuel-table td, .fuel-table th {
+    border: 1px solid #ddd;
+    padding: 4px;
+}
+.fuel-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+.form-check-input:checked{
+    border-color: white;
+}
